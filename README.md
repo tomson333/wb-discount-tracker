@@ -10,3 +10,4 @@ Contents:
 IMPORTANT:
 - I cannot build APK inside this chat environment. Use the included GitHub Actions workflow
   or Dockerfile to build the APK automatically. See instructions below.
+Trigger workflow
